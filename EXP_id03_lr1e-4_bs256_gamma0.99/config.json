@@ -1,0 +1,10 @@
+{
+  "suffix": "lr1e-4_bs256_gamma0.99",
+  "BATCH_SIZE": 256,
+  "LR": 0.0001,
+  "GAMMA": 0.99,
+  "EXPERIMENT_NAME": "EXP_id03_lr1e-4_bs256_gamma0.99",
+  "EPOCHS": 100000,
+  "MATCHES_PER_EPOCH": 300,
+  "STEPS_PER_EPOCH": 3000
+}
